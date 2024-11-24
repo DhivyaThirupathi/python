@@ -1,0 +1,5 @@
+word=str(input())
+print("The original words:" + word)
+result=len(word.split())
+print("numbers of words is:" + str(result))
+print("number of strings is" ,len(word))
